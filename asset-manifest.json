@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week23.Tariffs/static/css/main.b15dcd7f.css",
+    "main.js": "/week23.Tariffs/static/js/main.580cb106.js",
+    "static/js/787.2aa6c033.chunk.js": "/week23.Tariffs/static/js/787.2aa6c033.chunk.js",
+    "index.html": "/week23.Tariffs/index.html",
+    "main.b15dcd7f.css.map": "/week23.Tariffs/static/css/main.b15dcd7f.css.map",
+    "main.580cb106.js.map": "/week23.Tariffs/static/js/main.580cb106.js.map",
+    "787.2aa6c033.chunk.js.map": "/week23.Tariffs/static/js/787.2aa6c033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15dcd7f.css",
+    "static/js/main.580cb106.js"
+  ]
+}
